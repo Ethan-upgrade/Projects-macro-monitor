@@ -1,0 +1,7 @@
+claude-agent-sdk
+httpx
+beautifulsoup4
+lxml
+streamlit
+plotly
+pandas
